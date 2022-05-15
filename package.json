@@ -1,0 +1,10 @@
+{
+  "name": "InterfaceCalculator",
+  "version": "1.0.0",
+  "description": "A small program to calculate the hash of a given interface as defined in EIP165",
+  "main": "index.js",
+  "repository": "git@github.com:lambdalf-dev/InterfaceCalculator.git",
+  "author": "Lambdal the White <silvereh@protonmail.com>",
+  "license": "MIT",
+  "private": true
+}
